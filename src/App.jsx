@@ -65,7 +65,7 @@ function Example() {
 
   return (
     <main className={styles.container}>
-    <h1 className={styles.title}>MDN Content repo commit activity</h1>
+    <h1 className={styles.title}>facebook/react commit activity</h1>
       <div
         ref={(root) => {
           if (!root) return;
